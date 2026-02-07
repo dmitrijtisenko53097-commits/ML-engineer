@@ -1,2 +1,28 @@
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Environments
+.env
+venv/
+.envrc
+*.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Data
+*.csv
+*.h5
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
